@@ -1,0 +1,2 @@
+# .github
+Interview preparation platform

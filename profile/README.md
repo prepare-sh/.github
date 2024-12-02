@@ -1,15 +1,24 @@
-## Hi there 👋
+## Hey folks 👋
 
-Welcome to **prepare.sh**, your go-to platform for interview preparation. Whether you're gearing up for a tech interview or honing your problem-solving skills, we're here to guide you through every step of your journey.
+Welcome to **prepare.sh** github page.
 
 ### 🙋‍♀️ About Us
-At prepare.sh, we believe in the power of preparation. Our mission is to equip aspiring professionals with the knowledge, resources, and confidence needed to tackle any interview challenge.
 
-### 🌈 Get Involved
-Looking to make a difference? Our community thrives on contributions from passionate individuals like you. Whether it's adding new questions, refining existing content, or sharing your personal interview experiences, your input is invaluable. Learn more about how you can contribute by visiting [Contribute to prepare.sh](https://prepare.sh/contributors/). Let's build the ultimate interview prep resource, together!
+We are a small team with a vision to create the world’s best EdTech platform and we believe this is achievable.
+Unlike giant corporations like Udemy or Coursera, we're not backed by investors or venture funds. We’re just a group of engineers with a firm belief that education must be accessible, fair, and free.
 
-### 👩‍💻 Resources
-Dive deep into our repository of knowledge. Our comprehensive guides and practice questions are designed to prepare you for success. Visit our [Documentation](https://prepare.sh/) for tips, strategies, and more. Everything you need, all in one place.
+### 🌈 Our mission
 
-### 🍿 A Fun Fact
-On launch day, we sat in a café, waiting for people to sign up. After hours with no sign-ups, we thought about giving up. We took a break for some fresh air. When we came back, to our surprise, 150 users had joined! This moment showed us that sometimes, things take a little time, and it encouraged us never to give up too quickly.
+Although we provide premium content too that helps us to maintain prepare.sh website, pay for running costs, our main mission is to provide free labs, courses, and interview questions to aspiring professionals.
+
+Every subscription, every course, and every bit of support helps us move closer to our vision of making education universally accessible.
+
+### 🤝 Our values
+
+- Nothing half-assed. Ever. If we're doing something we do our absolute best or we don't do it at all.
+- We obsess over details: Every single thing we put out there has to be killer. No shortcuts, no compromises.
+- You don't need a fancy resume to be the best. You need that fire in you, that absolute conviction that you're going to change the entire established field by setting a new benchmark for them to be compared against - one where content is amazing, accessible, and free. If you're all in on that mission, you're our kind of people.
+
+### 👩‍💻 Contribute
+
+If our values resonate with you send us a message and join our team of contributors. Learn more about how you can contribute by visiting [Contribute to prepare.sh](https://prepare.sh/contributors/).
